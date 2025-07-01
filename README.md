@@ -88,13 +88,6 @@ It serves as a quick reference tool for film enthusiasts, data analysts, and med
 
 ---
 
-## 📝 Author
-
-**Prapti Mishra**  
-*Dashboard developed using Tableau with insights derived from IMDB data.*
-
----
-
 ## 📷 Dashboard Preview
 
 > *(Add a screenshot here if desired)*  
@@ -105,6 +98,15 @@ It serves as a quick reference tool for film enthusiasts, data analysts, and med
 ![Screenshot 2025-06-29 023706](https://github.com/user-attachments/assets/b3ab0552-732e-49e5-b9b0-22afc6782d19)
 
 ---
+
+## 📝 Author
+
+** 👩‍💻 Prapti Mishra**  
+*Dashboard developed using Tableau with insights derived from IMDB data.*
+
+---
+
+
 
 ## 📃 License
 
